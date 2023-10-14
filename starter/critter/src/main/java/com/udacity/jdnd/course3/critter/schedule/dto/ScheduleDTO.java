@@ -1,4 +1,4 @@
-package com.udacity.jdnd.course3.critter.schedule;
+package com.udacity.jdnd.course3.critter.schedule.dto;
 
 import com.udacity.jdnd.course3.critter.user.EmployeeSkill;
 
